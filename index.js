@@ -1,7 +1,7 @@
 // Fill in your client ID and client secret that you obtained
 // while registering the application
-const clientID = '7e015d8ce32370079895'
-const clientSecret = '2b976af0e6b6ceea2b1554aa31d1fe94ea692cd9'
+const clientID = 'a34a32bf4c236d12c57f'
+const clientSecret = '270f9a0bb190de68758616815c16a314a66b843c'
 
 const Koa = require('koa');
 const path = require('path');
